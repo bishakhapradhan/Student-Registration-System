@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BIT6</string>
+    <string-array name="country_array">
+        <item>Nepal</item>
+        <item>India</item>
+        <item>China</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>Sri Lanka</item>
+        <item>Afghanistan</item>
+    </string-array>
+</resources>
